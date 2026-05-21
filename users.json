@@ -1,0 +1,50 @@
+[
+    {
+        "username": "fdfdfd",
+        "email": "egorbajush@gmail.com",
+        "password_hash": "$2y$10$NULurv5UPqIRf6eDJWrajuUJcfaTxQ8aHAexVZaMFN4c4naLh\/r4C",
+        "display_name": "dfdfdf",
+        "role": "user",
+        "created_at": "2026-05-14 22:18:42"
+    },
+    {
+        "username": "123",
+        "email": "23123@gmail.com",
+        "password_hash": "$2y$10$k7UM17J3LSO5ctqsKwiNt.UYKS6yR3kpKMkaIn9kr1ZnRSlctMFvO",
+        "display_name": "142f",
+        "role": "user",
+        "created_at": "2026-05-14 22:21:28"
+    },
+    {
+        "username": "ivan123",
+        "email": "weqtyadg@gmail.com",
+        "password_hash": "$2y$10$O7mQV9nB2eKXUGGhh4VQ6uNh0AoimAmpe\/5UTL4TCo0fpYwpHJqO2",
+        "display_name": "IIvan",
+        "role": "user",
+        "created_at": "2026-05-14 22:24:52"
+    },
+    {
+        "username": "ivan",
+        "email": "qwerty@gmail.com",
+        "password_hash": "$2y$10$gnh6keixO\/eD6x4k99Y8B.acV7nohHpMfL3RyDCi.fLTNiNQpM0cu",
+        "display_name": "uvan",
+        "role": "user",
+        "created_at": "2026-05-14 22:27:16"
+    },
+    {
+        "username": "qwe",
+        "email": "qwe@gmail.com",
+        "password_hash": "$2y$10$2\/Qtkh35ZmTvhgO1c8c0\/OgrKyJcvQiVr2m4XEwlJmYcKrALtAUhK",
+        "display_name": "qwe",
+        "role": "user",
+        "created_at": "2026-05-14 22:40:27"
+    },
+    {
+        "username": "sfsf",
+        "email": "egor@gmail.com",
+        "password_hash": "$2y$10$m04urwh72o6JMS.YWTTzVusKaMJZo5UTujmlqKfQ5aVjiclmsVAfC",
+        "display_name": "sfsf",
+        "role": "user",
+        "created_at": "2026-05-19 18:21:31"
+    }
+]
